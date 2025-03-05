@@ -3,8 +3,8 @@ permalink: /
 title: "Personal Statement"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /ps/
+  - /ps.html
 ---
 
 In recent years, the emergence of ChatGPT and Deepseek have brought the development of AIGC to a new climax. After reading several works in this field by Chinese professors Zhou Zhihua and He Kaiming, I felt more development possibilities of this major in the future. Particularly in the fields of machine learning and reinforcement learning, I have come to recognize the immense value of artificial intelligence (AI) technology. Whether it is analyzing traffic flow through large-scale models to enable smart cities, classifying facial recognition data, conducting sentiment analysis in natural language processing, or even training AI models to detect AI-generated forgeries (the focus of my graduation research project), I have been consistently inspired by the transformative potential of AI. This realization not only aligns with my initial motivation for studying AI but also defines the direction I aspire to pursue in my future research endeavors.
