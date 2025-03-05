@@ -15,3 +15,4 @@ You can find my CV here: [English version](../assets/CV_E.pdf)./[Korean version]
 
 [Email](tjy9301@stu.ouc.edu.cn) / [Github](https://github.com/tttjy) 
 
+![Undergraduate Design](./images/模型结构图.png "Undergraduate Design")
