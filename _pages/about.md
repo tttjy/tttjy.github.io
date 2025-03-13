@@ -15,7 +15,7 @@ I am very fortunate to be advised by [Prof. Guoqiang Zhong ](http://it.ouc.edu.c
 
 You can find my CV here: [English version](../assets/CV_E.pdf)./[Korean version](../assets/CV_K.pdf).
 
-[Email](tjy9301@stu.ouc.edu.cn) / [Github](https://github.com/tttjy) 
+[Email](tjy9301@stu.ouc.edu.cn) / [Github](https://github.com/tttjy) (My projects "undergraduate-OUC"<-)
 
 Undergraduate Design:
 ![Undergraduate Design](../images/modal.png)
